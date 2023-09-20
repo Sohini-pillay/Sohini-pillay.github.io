@@ -3,11 +3,12 @@ html {
 }
 
 body {
-  background-color: white;
+  background-color: rgb(245, 245, 220);
   position: relative;
   min-height: 100vh;
   padding: 0;
   margin: 0;
+  font-family: serif;
 }
 
 main {
