@@ -92,7 +92,7 @@ main {
 
 .project-image {
   object-fit: cover;
-  width: 100%;
+  width: 40%;
   height: 300px;
 }
 
@@ -135,7 +135,7 @@ main {
 }
 
 .about-image img {
-  max-width: 100%;
+  max-width: 75%;
   border-radius: 3px;
 }
 
