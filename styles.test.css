@@ -90,10 +90,12 @@ main {
   width: 70%;
 }
 
-.project-image {
-  /* object-fit: cover; */
-  width: 500px;
-  /* height: 300px; */
+.project-image img {
+  width: 50%;
+  max-width: 50%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
 }
 
 .project-details {
@@ -175,6 +177,10 @@ main {
   font-family: Georgia, serif;
 }
 
+.resume {
+  margin-bottom: 50px;
+}
+
 /* Contact form styling */
 label {
   display: block;
@@ -193,6 +199,19 @@ textarea {
   border-radius: 4px;
   font-size: 16px;
   resize: none;
+}
+
+#submit {
+  background-color: var(--cg-brown);
+  color: var(--cg-light-beige);
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+#submit:hover {
+  background-color: var(--cg-pink);
 }
 
 /* Footer styling */
