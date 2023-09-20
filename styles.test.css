@@ -16,7 +16,6 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  color: white;
 }
 
 /* Navigation styling */
@@ -76,6 +75,7 @@ main {
 .page-title {
   font-size: 40px;
   font-family: Georgia, serif;
+  color: white
 }
 
 /* Portfolio grid styling */
