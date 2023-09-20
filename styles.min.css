@@ -59,12 +59,12 @@ main {
 }
 
 .navbar a:hover {
-  color: rgb(210,180,140);
+  color: pink;
   text-decoration: underline;
 }
 
 .navbar a:active {
-  color: rgb(210,180,140);
+  color: pink;
 }
 
 /* CSS for page footer */
