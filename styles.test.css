@@ -43,7 +43,7 @@ body {
   color: var(--cg-light-beige);
   font-weight: bold;
   margin: 0 12px;
-  text-decoration: underline;
+  text-decoration: none;
   letter-spacing: 2px;
   font-family: Arial, sans-serif;
 }
@@ -51,6 +51,7 @@ body {
 .navbar a:hover,
 .navbar a:active {
   color: var(--cg-pink);
+  text-decoration: underline;
 }
 
 /* Logo styling */
