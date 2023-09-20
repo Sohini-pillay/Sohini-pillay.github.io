@@ -153,6 +153,11 @@ main {
   font-size: 20px;
 }
 
+.project-image {
+  max-width: 300px;
+  border-radius: 3px;
+}
+
 
 /* CSS for page footer */
 
