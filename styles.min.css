@@ -3,12 +3,12 @@ html {
 }
 
 body {
-  background-color: rgb(245, 245, 220);
+  background-color: rgb(210,180,140);
   position: relative;
   min-height: 100vh;
   padding: 0;
   margin: 0;
-  font-family: serif;
+  font-family: monospace;
 }
 
 main {
@@ -56,6 +56,15 @@ main {
   margin: 0 12px;
   text-decoration: none;
   letter-spacing: 2px;
+}
+
+.navbar a:hover {
+  color: rgb(210,180,140);
+  text-decoration: underline;
+}
+
+.navbar a:active {
+  color: rgb(210,180,140);
 }
 
 /* CSS for page footer */
