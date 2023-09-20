@@ -43,7 +43,7 @@ body {
   color: var(--cg-light-beige);
   font-weight: bold;
   margin: 0 12px;
-  text-decoration: none;
+  text-decoration: underline;
   letter-spacing: 2px;
   font-family: Arial, sans-serif;
 }
@@ -61,7 +61,7 @@ body {
 }
 
 .logo a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* Main content styling */
