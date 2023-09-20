@@ -75,7 +75,7 @@ main {
 .page-title {
   font-size: 40px;
   font-family: Georgia, serif;
-  color: white
+  color: var(--cg-brown);
 }
 
 /* Portfolio grid styling */
